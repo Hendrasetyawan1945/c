@@ -1,0 +1,2 @@
+# c
+penyimpanan c
